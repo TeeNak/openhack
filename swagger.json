@@ -3,7 +3,7 @@
   "info" : {
     "description" : "OpenHackTokyo20",
     "version" : "0.1",
-    "title" : "defaultTitle"
+    "title" : "OpenHackTokyo20"
   },
   "paths" : {
     "/api/CreateRating" : {
@@ -46,7 +46,7 @@
         } ],
         "responses" : {
           "200" : {
-            "description" : "Definition generated from Swagger Inspector",
+            "description" : "Response",
             "schema" : {
               "type" : "object",
               "properties" : {
