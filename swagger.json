@@ -11,7 +11,7 @@
   "paths" : {
     "/api/CreateRating" : {
       "post" : {
-        "description" : "Create Rating1",
+        "description" : "Create Rating",
         "requestBody" : {
           "content" : {
             "application/json" : {
